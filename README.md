@@ -1,2 +1,0 @@
-# TraningApp
-Traning
